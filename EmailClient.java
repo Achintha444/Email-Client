@@ -43,8 +43,8 @@ public class EmailClient {
             
             //if your using gmail go to https://www.google.com/settings/security/lesssecureapps and enable
             // any other mail do the same process accordingly
-            String yourMail = "achinthaisuru.17@cse.mrt.ac.lk" ; //Senders email here
-            String  yourPassword = "anandacollege"; //Senders email password here
+            String yourMail = "" ; //Senders email here
+            String  yourPassword = ""; //Senders email password here
             String hostSendEmail = "smtp.gmail.com"; //Host of send Email
             String hostReciveEmail = "pop.gmail.com"; //Host of recieve email
             
